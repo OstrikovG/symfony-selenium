@@ -1,10 +1,10 @@
 {
-    "name": "ostrikov-g/youtube-parser",
+    "name": "ostrikov-g/symfony-selenium",
     "type": "project",
     "license": "proprietary",
     "authors": [
         {
-            "name": "Gleb Ostrikov",
+            "name": "Hlib Ostrikov",
             "email": "ostgleal@gmail.com"
         }
     ],
