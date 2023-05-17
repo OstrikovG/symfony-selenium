@@ -1,7 +1,7 @@
 {
     "name": "ostrikov-g/symfony-selenium",
     "type": "project",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Hlib Ostrikov",
